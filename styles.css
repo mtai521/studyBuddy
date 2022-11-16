@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #decad0;
+  font-family: Helvetica, serif;
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #ffffff;
+  font-size: 2rem;
+  font-weight: 800;
+  color: #506255;
+}
+
+h2, h3 {
+  margin: 30px;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #506255;
+}
+
+p {
+  color: #506255;
+}
+
+img {
+  width: 80%;
+  background-color: #576e5b;
+  border-radius: 30%;
+  mix-blend-mode: hard-light;
+}
+
+
+.myBtn {
+  margin: 30px;
+}
+
+footer {
+  margin-top: 5%;
+  color: #506255;
+  text-align: center;
+  font-family: Helvetica, serif;
+}
